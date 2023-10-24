@@ -15,13 +15,23 @@ module.exports = {
         light_cream: "#FFF7F0",
       },
       container: {
-        screens: {
-          sm: "640px",
-          md: "768px",
-          lg: "1024px",
-          xl: "1111px",
-          // "2xl": "1111px",
-        },
+        // screens: {
+        //   sm: "576px",
+        //   md: "768px",
+        //   lg: "992px",
+        //   xl: "1111px",
+        //   // "2xl": "1111px",
+        // },
+      },
+      screens: {
+        xs: "375px",
+        sm: "576px",
+        md: "768px",
+        lg: "992px",
+        xl: "1111px",
+      },
+      aspectRatio: {
+        "1/1.1": "1/1.1",
       },
     },
     fontFamily: {

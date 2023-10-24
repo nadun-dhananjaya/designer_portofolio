@@ -10,7 +10,7 @@ const Hero = () => {
   return (
     <section id="hero-section">
       <div className="container px-4 mx-auto mt-5">
-        <h1 className="text-center font-bold text-[3.5rem] mb-6">
+        <h1 className="text-center font-bold text-[1.8rem] xs:text-[2.25rem] sm:text-[2.75rem] lg:text-[3.5rem] mb-6">
           Design solutions made easy
         </h1>
         <div className="max-w-[45.6rem] mx-auto">
@@ -20,7 +20,7 @@ const Hero = () => {
           </p>
         </div>
         <div className="grid mt-20 grid-col-2 grid-rows-6 sm:grid-col-4 sm:grid-rows-3 lg:grid-rows-2 lg:grid-cols-6  gap-6">
-          <div className="bg-galactic_blue col-start-1 col-span-2 row-start-1 row-span-2 sm:col-start-1 sm:row-start-1 sm:row-span-2 sm:col-span-2 rounded-lg relative aspect-square">
+          <div className="bg-galactic_blue col-start-1 col-span-2 row-start-1 row-span-2 sm:col-start-1 sm:row-start-1 sm:row-span-2 sm:col-span-2 rounded-lg relative aspect-1/1.1 lg:aspect-square">
             <img
               src={GraphicDesignPattern}
               className="absolute top-4 right-4"
@@ -29,13 +29,13 @@ const Hero = () => {
               Graphic Design
             </label>
           </div>
-          <div className="bg-summer_yellow row-start-3 row-span-1 col-start-1 col-span-1 sm:col-start-3 sm:col-span-1 sm:row-start-1 sm:row-span-1 rounded-lg relative aspect-square">
-            <img src={UiUxPattern} className="absolute top-4 right-4" />
+          <div className="bg-summer_yellow row-start-3 first-letter: row-span-1 col-start-1 col-span-1 sm:col-start-3 sm:col-span-1 sm:row-start-1 sm:row-span-1 rounded-lg relative aspect-1/1.1  lg:aspect-square">
+            <img src={UiUxPattern} className="absolute top-4  right-4" />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4">
               UI/UX
             </label>
           </div>
-          <div className="bg-light_pink row-start-3 row-span-1 col-start-2 col-span-1 sm:col-start-4 sm:col-span-1 sm:row-start-1 sm:row-span-1 rounded-lg relative aspect-square">
+          <div className="bg-light_pink row-start-3 row-span-1 col-start-2 col-span-1 sm:col-start-4 sm:col-span-1 sm:row-start-1 sm:row-span-1 rounded-lg relative aspect-1/1.1  lg:aspect-square">
             <img src={AppPattern} className="absolute top-4 right-4" />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4">
               Apps
