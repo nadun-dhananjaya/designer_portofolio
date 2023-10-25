@@ -29,6 +29,7 @@ module.exports = {
         md: "768px",
         lg: "992px",
         xl: "1111px",
+        "2xl": "1209px",
       },
       aspectRatio: {
         "1/1.1": "1/1.1",

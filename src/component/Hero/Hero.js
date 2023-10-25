@@ -23,6 +23,7 @@ const Hero = () => {
           <div className="bg-galactic_blue col-start-1 col-span-2 row-start-1 row-span-2 sm:col-start-1 sm:row-start-1 sm:row-span-2 sm:col-span-2 rounded-lg relative aspect-1/1.1 lg:aspect-square">
             <img
               src={GraphicDesignPattern}
+              alt="graphic design patten"
               className="absolute top-4 right-4"
             />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4 ">
@@ -30,25 +31,41 @@ const Hero = () => {
             </label>
           </div>
           <div className="bg-summer_yellow row-start-3 first-letter: row-span-1 col-start-1 col-span-1 sm:col-start-3 sm:col-span-1 sm:row-start-1 sm:row-span-1 rounded-lg relative aspect-1/1.1  lg:aspect-square">
-            <img src={UiUxPattern} className="absolute top-4  right-4" />
+            <img
+              src={UiUxPattern}
+              alt="ui ux pattern"
+              className="absolute top-4  right-4"
+            />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4">
               UI/UX
             </label>
           </div>
           <div className="bg-light_pink row-start-3 row-span-1 col-start-2 col-span-1 sm:col-start-4 sm:col-span-1 sm:row-start-1 sm:row-span-1 rounded-lg relative aspect-1/1.1  lg:aspect-square">
-            <img src={AppPattern} className="absolute top-4 right-4" />
+            <img
+              src={AppPattern}
+              alt="app pattern"
+              className="absolute top-4 right-4"
+            />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4">
               Apps
             </label>
           </div>
           <div className="bg-cyan col-start-1 col-span-2 row-start-5 row-span-1 sm:col-start-1 sm:col-span-2 sm:row-start-3 sm:row-span-1 lg:col-start-5 lg:col-span-2 lg:row-start-1 lg:row-span-1 rounded-lg relative ">
-            <img src={PhotographyPattern} className="absolute top-4 right-4" />
+            <img
+              src={PhotographyPattern}
+              alt="photography pattern"
+              className="absolute top-4 right-4"
+            />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4">
               Photography
             </label>
           </div>
           <div className="bg-light_red row-start-4 row-span-1 col-start-1 col-span-2 sm:col-start-3 sm:col-span-2 sm:row-start-2 sm:row-span-1 rounded-lg relative ">
-            <img src={IllustrationPattern} className="absolute top-4 right-4" />
+            <img
+              src={IllustrationPattern}
+              alt="illustration pattern"
+              className="absolute top-4 right-4"
+            />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4">
               Illustrations
             </label>
@@ -56,6 +73,7 @@ const Hero = () => {
           <div className="bg-indigo rows-start-6 row-span-1 col-start-1 col-span-2 sm:col-start-3 sm:col-span-2 sm:row-start-3 sm:row-span-1 lg:col-start-5 lg:col-span-2 lg:row-start-2 lg:row-span-1 rounded-lg relative">
             <img
               src={MotionGraphicPattern}
+              alt="motion graphic pattern"
               className="absolute top-4 right-4"
             />
             <label className="text-white font-2xl font-bold absolute bottom-4 left-4">

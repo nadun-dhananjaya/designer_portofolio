@@ -1,5 +1,5 @@
 import React from "react";
-import ImageAmy from "../../assets/image-amy.webp";
+import AmyPicture from "../../assets/image-amy.webp";
 
 const About = () => {
   return (
@@ -7,7 +7,8 @@ const About = () => {
       <div className="flex  flex-col sm:flex-row items-center gap-10 sm:gap-6 ">
         <div className="w-full sm:w-1/2  sm:relative ">
           <img
-            src={ImageAmy}
+            src={AmyPicture}
+            alt="photo of amy"
             className="max-w-full xs:max-w-[18.75rem] mx-auto  sm:max-w-full lg:max-w-[28rem]  object-right object-cover sm:right-[3.5rem]	sm:top-1/2 lg:left-0 sm:absolute sm:-translate-y-1/2"
           />
         </div>
