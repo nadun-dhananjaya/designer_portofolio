@@ -1,41 +1,21 @@
-# logoFree Consultation
+# Designer Portfolio
 
-Design solutions made easy
+Explore a curated collection of captivating design patterns in various disciplines. This concept website serves as a portfolio for designers, showcasing their creativity and expertise.
 
-With over ten years of experience in various design disciplines, I’m your one-stop shop for your design needs.
+## Screenshot
 
-- **Graphic Design**: [Graphic Design Pattern Link]
-- **UI/UX**: [UI/UX Pattern Link]
-- **Apps**: [Apps Pattern Link]
-- **Photography**: [Photography Pattern Link]
-- **Illustrations**: [Illustrations Pattern Link]
-- **Motion Graphics**: [Motion Graphics Pattern Link]
+![Designer Portfolio](screenshot.jpeg)
 
-![Photo of Amy](link_to_amy_photo.jpg)
+_Caption: Overview of the Designer Portfolio_
 
-## About Me
+## How to Explore
 
-I’m Amy, and I’d love to work on your next project. I love working with others to create beautiful design solutions. I’ve designed everything from brand illustrations to complete mobile apps. I’m also handy with a camera!
+1. Visit the [Designer Portfolio Website](https://z-designer-portfolio.netlify.app/).
+2. Navigate through different design categories:
 
-## Free Consultation
-
-![Slider Image 1](link_to_slider_image_1.jpg)
-![Slider Image 2](link_to_slider_image_2.jpg)
-![Slider Image 3](link_to_slider_image_3.jpg)
-![Slider Image 4](link_to_slider_image_4.jpg)
-
-[<--](#) ![Arrow Left](link_to_arrow_left.png) [-->](#) ![Arrow Right](link_to_arrow_right.png)
-
-### Book a Call with Me
-
-I’d love to have a chat to see how I can help you. The best first step is for us to discuss your project during a free consultation. Then we can move forward from there.
-
-[![Free Consultation](link_to_free_consultation_button.png)](link_to_free_consultation_booking_page)
-
-## Logo
-
-![Logo](link_to_logo_image.png)
-
----
-
-**Note:** Replace the placeholder text and image links with actual content and URLs.
+   - **Graphic Design**
+   - **UI/UX**
+   - **Apps**
+   - **Photography**
+   - **Illustrations**
+   - **Motion Graphics**
