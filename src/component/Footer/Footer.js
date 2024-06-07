@@ -37,6 +37,19 @@ const Footer = () => {
           </button>
         </div>
       </div>
+
+      <div className="container pb-4 text-center">
+        <p>
+          Crafted By{" "}
+          <a
+            className="underline"
+            href="https://nadundhananjaya.com/"
+            target="_blank"
+          >
+            Nadun Dhananjaya
+          </a>
+        </p>
+      </div>
     </div>
   );
 };
